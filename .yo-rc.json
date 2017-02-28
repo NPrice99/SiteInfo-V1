@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "site-info-web-part-v-1",
+    "framework": "reat",
+    "version": "1.0.0",
+    "libraryId": "d4ff4475-8e67-4df2-8468-cbefb3556bc3"
+  }
+}

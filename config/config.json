@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/siteInfo/SiteInfoWebPart.js",
+      "manifest": "./src/webparts/siteInfo/SiteInfoWebPart.manifest.json",
+      "outputPath": "./dist/site-info.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "siteInfoStrings": "webparts/siteInfo/loc/{locale}.js"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "662cbe8f-4bee-4132-bbde-da66118317b4",
+  "alias": "SiteInfoWebPart",
+  "componentType": "WebPart",
+  "version": "1.0.0",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "662cbe8f-4bee-4132-bbde-da66118317b4",
+    "group": { "default": "Under Development" },
+    "title": { "default": "SiteInfo" },
+    "description": { "default": "SiteInfo description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "SiteInfo",
+      "showLists": false,
+      "showUser": true
+    }
+  }]
+}
